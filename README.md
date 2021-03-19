@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I like to cook 👨‍🍳 and play drums 🥁
 
 - 📫 How to reach me:<br>
-<a href=”www.linkedin.com/in/gustavoreginato” target=”_blank”>Linkedin</a><br>
 <a href="https://gustavorpd.github.io/" target="_blank">GitHub</a><br>
-<a href="https://www.instagram.com/gusta.brownie/" target="_blank">Instagram Profissional</a>
+<a href="https://www.instagram.com/gusta.brownie/" target="_blank">Instagram Profissional</a><br>
+<a href="https://www.linkedin.com/in/gustavoreginato/" target="_blank">Linkedin</a>
