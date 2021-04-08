@@ -4,7 +4,6 @@
 - 🔭 I’m currently studying at Trybe
 - 🌱 I’m currently learning about web development 
 - 👯 I’m looking to collaborate on technology projects
-- 💬 Ask me about everything
 - ⚡ Fun fact: I like to cook 👨‍🍳 and play drums 🥁
 
 - 📫 How to reach me:<br>
